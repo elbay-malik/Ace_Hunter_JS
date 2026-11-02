@@ -1,5 +1,5 @@
 # Ace Hunter - Card Game
-![image](https://github.com/EleoXDA/Ace_Hunter_JS/assets/27622683/f6b61c2d-3287-4b8d-96c3-dd84bb5ffec7)
+![image](https://github.com/elbay-malik/Ace_Hunter_JS/assets/27622683/f6b61c2d-3287-4b8d-96c3-dd84bb5ffec7)
 
 Welcome to Ace Hunter, a JavaScript card game. The objective of the game is to find the Ace of Spades card among four cards, which are randomly shuffled each round.
 
@@ -13,7 +13,7 @@ High-Tech Ace is a single-player card game developed using HTML, CSS, and JavaSc
 
 OR
 
-Just [click on this link](https://eleoxda.github.io/Ace_Hunter_JS/) to play the game
+Just [click on this link](https://elbay-malik.github.io/Ace_Hunter_JS/) to play the game
 
 ## How to Play
 1. Click the "Play Game" button to start a new game.
